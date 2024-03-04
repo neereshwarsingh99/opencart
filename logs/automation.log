@@ -1,0 +1,41 @@
+10:20:33.872 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+10:21:28.456 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs Started.....
+10:21:28.458 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******  Starting TC_001_AccountRegistrationTest  *******
+10:21:28.552 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+10:21:28.829 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+10:21:28.830 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entring Customer details.. 
+10:21:29.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Continue..
+10:21:29.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+10:21:29.863 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs end.....
+10:21:29.863 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******  Finished TC_001_AccountRegistrationTest  *******
+10:21:31.928 [main] INFO  testCases.TC_002_LoginTest - ****  Starting TC_002_LoginTest  ****
+10:21:31.928 [main] DEBUG testCases.TC_002_LoginTest - Capturing Application debug logs......
+10:21:32.002 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link on the home page
+10:21:32.257 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link under myaccount
+10:21:32.258 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password
+10:21:32.828 [main] INFO  testCases.TC_002_LoginTest - clicked on login button...
+10:21:32.873 [main] INFO  testCases.TC_002_LoginTest - Login test Passed...
+10:21:32.873 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+10:21:34.957 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+10:21:47.387 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+10:27:42.476 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs Started.....
+10:27:42.482 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******  Starting TC_001_AccountRegistrationTest  *******
+10:27:42.580 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+10:27:42.901 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+10:27:42.901 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entring Customer details.. 
+10:27:43.902 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Continue..
+10:27:43.947 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+10:27:43.950 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs end.....
+10:27:43.951 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******  Finished TC_001_AccountRegistrationTest  *******
+10:27:46.421 [main] INFO  testCases.TC_002_LoginTest - ****  Starting TC_002_LoginTest  ****
+10:27:46.422 [main] DEBUG testCases.TC_002_LoginTest - Capturing Application debug logs......
+10:27:46.502 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link on the home page
+10:27:46.730 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link under myaccount
+10:27:46.732 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password
+10:27:47.415 [main] INFO  testCases.TC_002_LoginTest - clicked on login button...
+10:27:47.477 [main] INFO  testCases.TC_002_LoginTest - Login test Passed...
+10:27:47.478 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+10:27:49.901 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+10:27:50.593 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+10:27:53.025 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+10:27:54.989 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
